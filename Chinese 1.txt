@@ -1,0 +1,155 @@
+#separator:tab
+#html:false
+"nǐ    	你"	you
+"hǎo    	好"	fine; good; nice; OK; it's settled
+"qǐng    	请"	please (polite form of request); to treat or invite (somebody)
+"wèn    	问"	to ask (a question)
+"guì    	贵"	honorable; expensive
+"xìng    	姓"	family name; (one's) family name is ...
+"wǒ    	我"	I, me
+"ne    	呢"	question particle
+"xiǎojiě    	小姐"	Miss; young lady
+"jiào    	叫"	to be called; to call (como llamar en español)
+"shénme    	什么"	what (question pronoun)
+"míngzi    	名字"	name
+"xiānsheng    	先生"	Mr.; husband; teacher
+"Lǐ Yǒu    	李友"	(a personal name)
+"Lǐ    	李"	(a family name); plum
+"Wáng Péng    	王朋"	(a personal name)
+"wáng    	王"	(a family name); king
+"shì    	是"	to be
+"lǎoshī    	老师"	teacher
+"ma    	吗"	(question particle; yes/no questions)
+"bù    	不"	not; no
+"xuésheng    	学生"	student
+"yě    	也"	too; also
+"rén    	人"	people; person
+"Zhōngguó    	中国"	China
+"Běijīng    	北京"	Beijing
+"Měiguó    	美国"	America
+"Niü3 yuē    	纽约"	New York
+"nà    	那"	that
+"de    	的"	(a possessive or descriptive particle)
+"zhàopiàn    	照片"	picture; photo
+"zhè    	这"	this
+"bàba    	爸爸"	father; dad
+"māma    	妈妈"	mother; mom
+"gè / ge    	个"	(measure word for many common objects)
+"nǚ    	女"	female
+"háizi    	孩子"	child
+"shéi    	谁"	who; whom
+"tā    	他"	he; him
+"tā    	她"	she; her
+"jiějie    	姐姐"	older sister
+"nán    	男"	male
+"dìdi    	弟弟"	younger brother
+"dàgē    	大哥"	eldest/oldest brother
+"érzi    	儿子"	son
+"yǒu    	有"	to have; to exist
+"nǚ'ér    	女儿"	daughter
+"méi    	没"	not
+"Gāo Wénzhōng    	高文中"	(a personal name)
+"gāo    	高"	tall, high; (a family name -- i.e., Alice Longyu Gao)
+"jiā    	家"	family; home
+"jǐ    	几"	how many; some; a few
+"kǒu    	口"	(measure word for number of family members); mouth
+"gēge    	哥哥"	older brother
+"liǎng    	两"	two; a couple of
+"mèimei    	妹妹"	younger sister
+"hé    	和"	and
+"dàjiě    	大姐"	eldest/oldest sister
+"èrjiě    	二姐"	second oldest sister
+"zuò    	做"	to do
+"gōng zuò    	工作"	job; to work
+"lǜshī    	律师"	lawyer
+"Yīngwén    	英文"	English (language)
+"dōu    	都"	both; all
+"dàxuéshēng    	大学生"	college student
+"dàxué    	大学"	university; college
+"yīshēng    	医生"	doctor; physician
+"Bái Yīng'ài    	白英爱"	(a personal name)
+"yī    	一"	one
+"èr    	二"	two
+"sān    	三"	three
+"sì    	四"	four
+"wǔ    	五"	five
+"liù    	六"	six
+"qī    	七"	seven
+"bā    	八"	eight
+"jiǔ    	九"	nine
+"shí    	十"	ten
+"shí yī    	十一"	eleven
+"shí jiǔ    	十九"	nineteen
+"èr shí èr    	二十二"	twenty-two
+"sān shí    	三十"	thirty
+"shí èr    	十二"	twelve
+"jiǔ yuè    	九月"	September
+"yuè    	月"	month
+"hào    	号"	day (of the month); (measure word for position in a numerical series)
+"xīngqī    	星期"	week
+"xīngqīsì    	星期四"	Thursday
+"xīngqīyī    	星期一"	Monday
+"tiān    	天"	day
+"shēngrì    	生日"	Birthday
+"shēng    	生"	to give birth to, to be born
+"rì    	日"	day, sun
+"jīnnián    	今年"	this year
+"nián    	年"	year
+"duō    	多"	how many/how much; to what extent
+"dà    	大"	big; old
+"shíbā    	十八"	eighteen
+"suì    	岁"	years old
+"chī    	吃"	to eat
+"fàn    	饭"	meal; (cooked) rice
+"zěnmeyàng    	怎么样"	Is it OK? / How is that? / How does that sound?
+"tài。。。le    	太。。。了"	too; extremely (of something)
+"xièxie    	谢谢"	to thanks
+"xǐhuan    	喜欢"	to like
+"cài    	菜"	dish; cuisine
+"háishi    	还是"	or    [note grammar structure]
+"kěshì    	可是"	but
+"wǒmen    	我们"	we; us
+"diǎn    	点"	dot; point; o'clock
+"bàn    	半"	half; half an hour
+"wǎnshang    	晚上"	evening; night
+"jiàn    	见"	to see
+"zàijiàn    	再见"	goodbye; see you again
+"zài    	再"	again
+"Yīngguó    	英国"	Britain
+"tàihǎole    	太好了"	very good
+"dōubù    	都不"	neither
+"zǎoshang    	早上"	early morning [6am to 8am]
+"shàngwǔ    	上午"	morning [8am to 12p ish]
+"zhōngwǔ    	中午"	noon [12p to 1p]
+"xiàwǔ    	下午"	afternoon [1p to 5p]
+"lèi    	累"	weary / fatigued; to make tired
+"hěn    	很"	very
+"hěn duō    	很多"	a lot of
+"xiànzài    	现在"	now
+"yǒushìr    	有事儿"	be busy / occupied
+"méi shìr    	没事儿"	to be free from work / (idiom) never mind; it's nothing
+"máng    	忙"	busy
+"wǎnfàn    	晚饭"	dinner; supper
+"wèishénme    	为什么"	why
+"yīnwèi    	因为"	because
+"hái    	还"	also; too; as well
+"tóngxué    	同学"	classmate
+"rènshi    	认识"	to be acquainted with; to recognize (like you actually know the person IRL)
+"péngyou    	朋友"	friend
+"jīntiān    	今天"	today
+"duōdà    	多大"	how old/big
+"Àobāmǎ    	奥巴马"	Obama (former US President)
+"Chénglóng    	成龙"	Jackie Chan
+"māo    	猫"	cat
+"gǒu    	狗"	dog
+"shì(r)    	事(儿)"	matter; affair; event
+"hànbǎo    	汉堡"	hamburger
+"bù kèqì    	不客气"	you're welcome
+"duìbùqǐ    	对不起"	sorry
+"hěn hǎo    	很好"	very good
+"lěng    	冷"	cold
+"Màidíxùn    	麦迪逊"	"Madison (Madison, WI -- ""mai dee shueen"")"
+"píngguǒ    	苹果"	apple  (including the company of the same name)
+"shǒujī    	手机"	cell phone
+"píngguǒ shǒujī    	苹果手机"	"iPhone  (lit. ""Apple Phone"")"
+"chá    	茶"	tea
